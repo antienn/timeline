@@ -106,7 +106,7 @@ body {
 }
 .timeline .swiper-pagination {
   right: 15% !important;
-  height: 55%;
+  height: 50%;
   display: none;
   flex-direction: column;
   justify-content: center;
