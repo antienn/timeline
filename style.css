@@ -132,7 +132,7 @@ body {
   background: transparent;
   color: #d4a024;
   font-weight: 600;
-  margin: 5px 0 !important;
+  margin: 9px 0;
   position: relative;
 }
 .timeline .swiper-pagination-bullet:hover {
