@@ -106,13 +106,13 @@ body {
 }
 .timeline .swiper-pagination {
   right: 15% !important;
-  height: 70%;
+  height: 100%;
   display: none;
   flex-direction: column;
   justify-content: center;
   font-style: italic;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 18px;
   z-index: 1;
 }
 .timeline .swiper-pagination::before {
@@ -132,12 +132,13 @@ body {
   background: transparent;
   color: #d4a024;
   font-weight: 600;
-  margin: 7px 0 !important;
+  margin: 13px 0 !important;
   position: relative;
 }
 .timeline .swiper-pagination-bullet:hover {
   color: white;
-  transition: .6s ease 0.1s;
+  margin: 25px 0 !important;
+  transition: .6s ease 0.3s;
 }
 .timeline .swiper-pagination-bullet::before {
   content: "";
