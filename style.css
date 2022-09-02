@@ -137,7 +137,6 @@ body {
 }
 .timeline .swiper-pagination-bullet:hover {
   color: white;
-  margin: 25px 0 !important;
   transition: .6s ease 0.3s;
 }
 .timeline .swiper-pagination-bullet::before {
